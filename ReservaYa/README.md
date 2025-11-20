@@ -1,6 +1,6 @@
 # Proyecto Final: ReservaYa
 
-Evolución de una arquitectura de software para la materia **Arquitectura de Software**.
+Evolución de una arquitectura de software
 
 ## Estructura del Proyecto
 
@@ -21,6 +21,7 @@ Este repositorio demuestra la evolución de la plataforma "ReservaYa" a través 
 
 4.  **Parte 4 - Microservicios:** (`/Microservices`)
     * División de dominio en servicios autónomos (Catálogo y Reservas).
-    * Instalación: `npm install` (en la carpeta)
+    * Instalación: `npm install` 
     * Ejecución: `node servicio_catalogo.js` y `node servicio_reservas.js`
+
 
